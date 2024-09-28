@@ -1,6 +1,6 @@
 class Board
 {
-  int width = 10;
-  int height =10;
+  int width = 100;
+  int height =100;
   
 };
