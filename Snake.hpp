@@ -7,3 +7,12 @@ struct Snake {
     int nTail;
     Direction dir;
 };
+
+class Snake
+{
+    Snake::Snake() {}
+    void Snake::Move(Direction direction) {}
+    int Snake::GetSize() const {}
+
+};
+
